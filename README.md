@@ -1,4 +1,4 @@
-# :zap: MERN Full Stack Tracker
+# :zap: MERN Fitness Tracker
 
 * Mongo Express React Node (MERN) full-stack app, integrates React frontend with Node.js backend.
 * Tutorial code - see [:clap: Inspiration](#clap-inspiration) below but with customisations - particularly the mongoose connection script is more detailed and react frontend table has proper Bootstrap buttons to avoid error messages with edit & delete links.
@@ -136,4 +136,4 @@ mongoose.connection.on('error', err => {
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [Tanishq Thuse](https://github.com/TanishqThuse), email: tanishqthuse555@gmail.com
